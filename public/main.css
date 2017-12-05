@@ -25,6 +25,10 @@ a, a:hover {
   display: inline;
 }
 
+#sub-head {
+  color: #191995;
+
+}
 .new-post {
   margin-bottom: 25px;
 }
